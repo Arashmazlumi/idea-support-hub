@@ -43,6 +43,4 @@ Support an Idea:
 - SQLite - Local database for data storage
 - Python - Backend logic
 
-## License
 
-MIT
